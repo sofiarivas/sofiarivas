@@ -3,7 +3,7 @@
  I'm Sofia! I am a self-taught software engineer and UI designer who is driven by curiosity. 
  
 - :computer: Currently working as Software Engineer at @Wizeline
-- :wrench: Check out my maker projects at: [sofiarivas.dev]()
+- :wrench: Check out my maker projects at: [sofiarivas.dev](https://sofiarivas.dev/)
 - 📫 How to reach me: sofi.rivasm@gmail.com
 - 😄 Pronouns: she/her/hers 
 
