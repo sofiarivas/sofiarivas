@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+ I'm Sofia! I am a self-taught software engineer and UI designer who is driven by curiosity. 
+ 
+- :computer: Currently working as Software Engineer at @Wizeline
+- :wrench: Check out my maker projects at: [sofiarivas.dev]()
+- 📫 How to reach me: sofi.rivasm@gmail.com
+- 😄 Pronouns: she/her/hers 
+
 <!--
 **sofiarivas/sofiarivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
