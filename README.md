@@ -2,7 +2,8 @@
 
  I'm Sofia! I am a self-taught software engineer and UI designer who is driven by curiosity. 
  
-- :computer: Currently working as **Design Engineer** for the design systems team [@twitter](https://careers.twitter.com/)
+- :computer: Formerly working as **design engineer** for the design systems team [@twitter](https://careers.twitter.com/). 
+- 🔭 Currently **looking for work opportunities** on the design systems space, specially on web development and UI.
 - :wrench: Check out my maker projects at: [sofiarivas.dev](https://sofiarivas.dev/)
 - 📫 How to reach me: sofi.rivasm@gmail.com
 - 😄 Pronouns: she/her/hers 
