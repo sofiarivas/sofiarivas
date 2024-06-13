@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-I'm Sofia! I am a software engineer and UI designer who is driven by curiosity. 
+I'm [Sofia](https://sofiarivas.dev/)! I am a software engineer and UI designer who is driven by curiosity. 
 
-- 🔭 Currently **looking for work opportunities** on the design systems space, specially on web development and UI.
-- :computer: Formerly working as design engineer for the design systems team [@twitter](https://careers.twitter.com/). 
+- 🚀✨ **Open to new adventures!** ✨ I'm excited about exploring collaborations opportunities, beta testing, speaking opportunities, etc.
+- :computer: Pushing commits as a software engineer at [@clara](https://clara.cc/)
+- Previous experience: [@twitter](https://github.com/twitter), [@wizeline](https://www.wizeline.com/), [@segundamano.mx](). 
 - :wrench: Check out my maker projects at: [sofiarivas.dev](https://sofiarivas.dev/blog/)
 - 📫 How to reach me: sofi.rivasm@gmail.com
-- 😄 Pronouns: she/her/hers/ella 
+- 😄 Pronouns: she/her/ella 
 
 <!--
 **sofiarivas/sofiarivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
