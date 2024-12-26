@@ -5,7 +5,7 @@ I'm [Sofia](https://sofiarivas.dev/)! I am a software engineer and UI designer w
 - 👩🏻‍💻 🚀✨ Bridging design and engineering as a **Design Technologist at [Zillow](https://www.zillow.com/careers/design/), building for AI.**
 - 💼 Previous experience: [@twitter](https://github.com/twitter), [@wizeline](https://www.wizeline.com/), [@segundamano.mx](). 
 - :wrench: Check out my maker projects at: [sofiarivas.dev](https://sofiarivas.dev/blog/)
-- Open to adventures!✨ I'm excited about exploring collaborations opportunities, beta testing and speaking opportunities.
+- ✨ Open to adventures! I'm excited about exploring collaborations opportunities, beta testing and speaking opportunities.
 - 📫 How to reach me: sofi.rivasm@gmail.com
 - 😄 Pronouns: she/her/ella 
 
